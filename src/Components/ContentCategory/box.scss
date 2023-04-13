@@ -1,0 +1,16 @@
+.box{
+    transition:0.3s;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    border: 2px solid #9C9C9C50;
+    position: relative;
+    &:hover, & .active{
+      background:rgba(77, 213, 153, 1);
+      border: 2px solid rgba(77, 213, 153, 1);
+  }
+  &_active{
+    background:rgba(77, 213, 153, 1);
+    border: 2px solid rgba(77, 213, 153, 1);
+  }
+}

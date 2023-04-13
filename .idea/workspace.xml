@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2f995c36-73b6-42e3-bbd6-2770d83b2304" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/db.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/ContentCategory/ContentCategory.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/ContentCategory/ContentCheckBox.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/ContentCategory/box.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Form/Form.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Form/form.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/Vector.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Home/Aside/Aside.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Home/Aside/Aside.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Home/Home.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Home/HomeContent/HomeContent.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Home/HomeContent/content.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Home/home.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Login/Login.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Register/Register.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Register/register.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/Context.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/dataColors.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/totos.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KMjaiSfJMKdDkQ6yyhFKFmezpk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "list.type.of.created.stylesheet": "SCSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f995c36-73b6-42e3-bbd6-2770d83b2304" name="Changes" comment="" />
+      <created>1673791414626</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673791414626</updated>
+      <workItem from="1673791415729" duration="25000" />
+      <workItem from="1681300512870" duration="6907000" />
+      <workItem from="1681361327584" duration="4283000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

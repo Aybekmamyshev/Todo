@@ -1,0 +1,71 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "login": "Maksat",
+      "password": "bc12n33",
+      "email": "max@mail.ru",
+      "categories": [
+        {
+          "id": 3232323,
+          "categoryName": "front-end",
+          "tasks": [
+            {
+              "taskTitle": "Изучить реакт",
+              "id": 12112121,
+              "isComplete": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "email": "aibek.@mail.ru",
+      "password": "$2a$10$ObAZkQdNlua8QfwYxAWYCeCMTpSY16hICtPZSmFPy2ueaalxPa3Pm",
+      "login": " aibek",
+      "categories": [
+        {
+          "categoryName": "Школа",
+          "id": "b538b4b5-6bde-403f-b044-d4e3cf52d11b",
+          "color": "orange",
+          "tasks": [
+            {
+              "taskTitle": "learn react ",
+              "id": "81e44b31-e789-49c2-aba5-32e8d4d8ab07",
+              "isComplete": false
+            },
+            {
+              "taskTitle": "learn js",
+              "id": "81533929-a9cf-462e-819a-51f70c006e6d",
+              "isComplete": false
+            },
+            {
+              "taskTitle": "learn python ",
+              "id": "c2cd9be0-26ad-4e2a-b05d-164e207edf4b",
+              "isComplete": false
+            }
+          ]
+        },
+        {
+          "categoryName": "Универ",
+          "id": "5da60004-a17d-4a88-8629-b8e4923263e1",
+          "color": "green",
+          "tasks": []
+        },
+        {
+          "categoryName": "Детский сад ",
+          "id": "7b63cd62-59ad-40ed-a766-c1498d6a8c24",
+          "color": "brown",
+          "tasks": []
+        },
+        {
+          "categoryName": "Спорт",
+          "id": "21ba3c83-3e6c-4d19-9fcf-3fae839ac3ec",
+          "color": "aqua",
+          "tasks": []
+        }
+      ],
+      "id": 2
+    }
+  ]
+}
